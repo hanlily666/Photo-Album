@@ -1,6 +1,6 @@
 # Photo-Album
 
-An nterative photo album that is built with p5.js. 
+An interative photo album that is built with p5.js. 
 
 ## Project Brief
 
